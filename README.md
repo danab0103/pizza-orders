@@ -13,7 +13,7 @@ A pizza starts from a base (`Dough`) and gets built up by wrapping it in topping
 - `ToppingDecorator` — abstract base for all toppings
 - `TomatoSauce` — adds tomato sauce (+2 RON)
 - `Mozzarella` — adds mozzarella (+4.5 RON)
-- `Ham` — adds pepperoni (+6 RON)
+- `Ham` — adds ham (+6 RON)
 - `Mushrooms` — adds mushrooms (+3.5 RON)
 
 ### 2. Observer Pattern
